@@ -1,0 +1,29 @@
+_repo: The-Six-Fingers-of-Time_31663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lafferty, R. A.
+    alias: Lafferty, Raphael Aloysius
+    birthdate: 1914
+    deathdate: 2002
+    gutenberg_agent_id: '25720'
+    url: http://www.gutenberg.org/2009/agents/25720
+    wikipedia: http://en.wikipedia.org/wiki/R.A._Lafferty
+description: ''
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Six Fingers of Time
+url: http://www.gutenberg.org/ebooks/31663
